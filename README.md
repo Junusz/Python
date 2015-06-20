@@ -1,2 +1,2 @@
 # Python
-First Test of Git using Python from class
+First test of Git using Python from class
